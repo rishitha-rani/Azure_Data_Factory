@@ -11,7 +11,7 @@
 					"type": "LinkedServiceReference"
 				},
 				"secretName": "secretkey",
-				"secretVersion": "04d361ce874840fbbfb4fa25741ae4e4"
+				"secretVersion": "2a48839793af4dc7a8a5060671655c6e"
 			}
 		}
 	},
